@@ -1,8 +1,6 @@
 # Pay for security personnel
 
-```
-Git is free software distributed under the GPL.
-```
+
 
 在自己安全研究的路上如果没有资金的支持，是没有足够的精力能够恰饭的
 
